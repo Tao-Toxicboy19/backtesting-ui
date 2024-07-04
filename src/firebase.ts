@@ -26,13 +26,22 @@ import { getFirestore } from "firebase/firestore";
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBlLj9wp_dXXtJqQ_qO49lexIW3whInM_E",
-  authDomain: "backtest2-40cd4.firebaseapp.com",
-  projectId: "backtest2-40cd4",
-  storageBucket: "backtest2-40cd4.appspot.com",
-  messagingSenderId: "411618028585",
-  appId: "1:411618028585:web:e78a7d6b14c92958084038",
-  measurementId: "G-W0D253G80T"
+  // apiKey: "AIzaSyBlLj9wp_dXXtJqQ_qO49lexIW3whInM_E",
+  // authDomain: "backtest2-40cd4.firebaseapp.com",
+  // projectId: "backtest2-40cd4",
+  // storageBucket: "backtest2-40cd4.appspot.com",
+  // messagingSenderId: "411618028585",
+  // appId: "1:411618028585:web:e78a7d6b14c92958084038",
+  // measurementId: "G-W0D253G80T"
+
+
+  apiKey: "AIzaSyAgcSwcGZVbMpkExnXlCjkef68ztNrLBJA",
+  authDomain: "backtesting-d75cf.firebaseapp.com",
+  projectId: "backtesting-d75cf",
+  storageBucket: "backtesting-d75cf.appspot.com",
+  messagingSenderId: "100007999412",
+  appId: "1:100007999412:web:911a5633f5e81c89d3e4e1",
+  measurementId: "G-D04N98T87V"
 };
 
 // Initialize Firebase

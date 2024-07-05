@@ -165,7 +165,7 @@ export default function App() {
     labels,
     datasets: [
       {
-        label: 'EMA 10',
+        label: 'Profit (1000 USD)',
         data: [
           data?.ema10,
           data?.ema11,
